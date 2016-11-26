@@ -276,13 +276,12 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z00D/proprietary/lib/libkeymaster.so:system/lib/libkeymaster.so \
     vendor/asus/Z00D/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/asus/Z00D/proprietary/lib/libstock_crypto.so:system/lib/libstock_crypto.so \
-    vendor/asus/Z00D/proprietary/lib/hw/keystore.clovertrail.so:system/lib/hw/keystore.clovertrail.so \
+    vendor/asus/Z00D/proprietary/lib/hw/keystore.vendor.clovertrail.so:system/lib/hw/keystore.vendor.clovertrail.so \
     vendor/asus/Z00D/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/asus/Z00D/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/asus/Z00D/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/asus/Z00D/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/asus/Z00D/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
-    vendor/asus/Z00D/proprietary/lib/libdrm.so:system/lib/libdrm.so \
     vendor/asus/Z00D/proprietary/lib/libpvr2d.so:system/lib/libpvr2d.so \
     vendor/asus/Z00D/proprietary/vendor/bin/pvrsrvctl:system/vendor/bin/pvrsrvctl \
     vendor/asus/Z00D/proprietary/vendor/lib/libIMGegl.so:system/vendor/lib/libIMGegl.so \
@@ -332,7 +331,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z00D/proprietary/lib/libmixvbp_vc1.so:system/lib/libmixvbp_vc1.so \
     vendor/asus/Z00D/proprietary/lib/libOMXVideoDecoderAVC.so:system/lib/libOMXVideoDecoderAVC.so \
     vendor/asus/Z00D/proprietary/lib/libOMXVideoDecoderAVCSecure.so:system/lib/libOMXVideoDecoderAVCSecure.so \
-    vendor/asus/Z00D/proprietary/lib/libmultidisplay.so:system/lib/libmultidisplay.so \
     vendor/asus/Z00D/proprietary/lib/libsepdrm.so:system/lib/libsepdrm.so \
     vendor/asus/Z00D/proprietary/lib/libmmgrcli.so:system/lib/libmmgrcli.so \
     vendor/asus/Z00D/proprietary/lib/libmmgr_cnx.so:system/lib/libmmgr_cnx.so \
@@ -439,4 +437,5 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z00D/proprietary/lib/hw/sensors.redhookbay.so:system/lib/hw/sensors.redhookbay.so \
     vendor/asus/Z00D/proprietary/lib/hw/sensors.AKM.redhookbay.so:system/lib/hw/sensors.AKM.redhookbay.so \
     vendor/asus/Z00D/proprietary/lib/hw/sensors.PS_ALS.redhookbay.so:system/lib/hw/sensors.PS_ALS.redhookbay.so \
-    vendor/asus/Z00D/proprietary/lib/libcmdthread.so:system/lib/libcmdthread.so
+    vendor/asus/Z00D/proprietary/lib/libcmdthread.so:system/lib/libcmdthread.so \
+    vendor/asus/Z00D/proprietary/lib/libstlport.so:system/lib/libstlport.so
