@@ -268,7 +268,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z00D/proprietary/lib/libxditk_DIT_CloverTrailPlus.so:system/lib/libxditk_DIT_CloverTrailPlus.so \
     vendor/asus/Z00D/proprietary/lib/libxditk_DIT_Manager.so:system/lib/libxditk_DIT_Manager.so \
     vendor/asus/Z00D/proprietary/lib/libxditk_ISP.so:system/lib/libxditk_ISP.so \
-    vendor/asus/Z00D/proprietary/lib/hw/camera.redhookbay.so:system/lib/hw/camera.redhookbay.so \
+    vendor/asus/Z00D/proprietary/lib/hw/camera.vendor.redhookbay.so:system/lib/hw/camera.vendor.redhookbay.so \
     vendor/asus/Z00D/proprietary/media/cameraConfig/style.cng:system/media/cameraConfig/style.cng \
     vendor/asus/Z00D/proprietary/vendor/firmware/00imx135-0-0x4-0.drvb:system/vendor/firmware/00imx135-0-0x4-0.drvb \
     vendor/asus/Z00D/proprietary/vendor/firmware/00ov8830-0-0x2-0.drvb:system/vendor/firmware/00ov8830-0-0x2-0.drvb \
@@ -437,5 +437,4 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z00D/proprietary/lib/hw/sensors.redhookbay.so:system/lib/hw/sensors.redhookbay.so \
     vendor/asus/Z00D/proprietary/lib/hw/sensors.AKM.redhookbay.so:system/lib/hw/sensors.AKM.redhookbay.so \
     vendor/asus/Z00D/proprietary/lib/hw/sensors.PS_ALS.redhookbay.so:system/lib/hw/sensors.PS_ALS.redhookbay.so \
-    vendor/asus/Z00D/proprietary/lib/libcmdthread.so:system/lib/libcmdthread.so \
-    vendor/asus/Z00D/proprietary/lib/libstlport.so:system/lib/libstlport.so
+    vendor/asus/Z00D/proprietary/lib/libcmdthread.so:system/lib/libcmdthread.so
