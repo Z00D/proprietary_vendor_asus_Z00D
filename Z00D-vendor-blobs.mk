@@ -261,6 +261,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z00D/proprietary/lib/libmfldadvci.so:system/lib/libmfldadvci.so \
     vendor/asus/Z00D/proprietary/lib/libmixvbp.so:system/lib/libmixvbp.so \
     vendor/asus/Z00D/proprietary/lib/libmix_imagedecoder.so:system/lib/libmix_imagedecoder.so \
+    vendor/asus/Z00D/proprietary/lib/libmultidisplay.so:system/lib/libmultidisplay.so \
     vendor/asus/Z00D/proprietary/lib/libmix_imageencoder.so:system/lib/libmix_imageencoder.so \
     vendor/asus/Z00D/proprietary/lib/libsvml.so:system/lib/libsvml.so \
     vendor/asus/Z00D/proprietary/lib/libtbd.so:system/lib/libtbd.so \
@@ -318,8 +319,11 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z00D/proprietary/etc/binfmt_misc/arm_exe:system/etc/binfmt_misc/arm_exe \
     vendor/asus/Z00D/proprietary/bin/houdini:system/bin/houdini \
     vendor/asus/Z00D/proprietary/lib/libhoudini.so:system/lib/libhoudini.so \
+    vendor/asus/Z00D/proprietary/bin/intel_prop:system/bin/intel_prop \
     vendor/asus/Z00D/proprietary/bin/msvdx_bin:system/bin/msvdx_bin \
     vendor/asus/Z00D/proprietary/bin/topaz_bin:system/bin/topaz_bin \
+    vendor/asus/Z00D/proprietary/bin/thermald:system/bin/thermald \
+    vendor/asus/Z00D/proprietary/bin/upi_ug31xx:system/bin/upi_ug31xx \
     vendor/asus/Z00D/proprietary/lib/hw/hwcomposer.clovertrail.so:system/lib/hw/hwcomposer.clovertrail.so \
     vendor/asus/Z00D/proprietary/lib/libhwcwidi.so:system/lib/libhwcwidi.so \
     vendor/asus/Z00D/proprietary/lib/libintelmetadatabuffer.so:system/lib/libintelmetadatabuffer.so \
