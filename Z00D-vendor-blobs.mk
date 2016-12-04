@@ -210,6 +210,9 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z00D/proprietary/etc/atomisp/01s5k8aay.cpf:system/etc/atomisp/01s5k8aay.cpf \
     vendor/asus/Z00D/proprietary/etc/camera_profiles.xml:system/etc/camera_profiles.xml \
     vendor/asus/Z00D/proprietary/etc/camera_profiles_ze500cl.xml:system/etc/camera_profiles_ze500cl.xml \
+    vendor/asus/Z00D/proprietary/etc/firmware/bcmdhd_aob.cal:system/etc/firmware/bcmdhd_aob.cal \
+    vendor/asus/Z00D/proprietary/etc/firmware/fw_bcmdhd.bin:system/etc/firmware/fw_bcmdhd.bin \
+    vendor/asus/Z00D/proprietary/etc/firmware/fw_bcmdhd_apsta.bin:system/etc/firmware/fw_bcmdhd_apsta.bin \
     vendor/asus/Z00D/proprietary/etc/firmware/isp_acc_deghosting_css15.bin:system/etc/firmware/isp_acc_deghosting_css15.bin \
     vendor/asus/Z00D/proprietary/etc/firmware/isp_acc_fusion_css15.bin:system/etc/firmware/isp_acc_fusion_css15.bin \
     vendor/asus/Z00D/proprietary/etc/firmware/isp_acc_multires_css15.bin:system/etc/firmware/isp_acc_multires_css15.bin \
