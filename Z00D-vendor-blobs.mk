@@ -321,7 +321,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z00D/proprietary/etc/binfmt_misc/arm_exe:system/etc/binfmt_misc/arm_exe \
     vendor/asus/Z00D/proprietary/bin/houdini:system/bin/houdini \
     vendor/asus/Z00D/proprietary/lib/libhoudini.so:system/lib/libhoudini.so \
-    vendor/asus/Z00D/proprietary/bin/intel_prop:system/bin/intel_prop \
     vendor/asus/Z00D/proprietary/bin/msvdx_bin:system/bin/msvdx_bin \
     vendor/asus/Z00D/proprietary/bin/topaz_bin:system/bin/topaz_bin \
     vendor/asus/Z00D/proprietary/bin/thermald:system/bin/thermald \
