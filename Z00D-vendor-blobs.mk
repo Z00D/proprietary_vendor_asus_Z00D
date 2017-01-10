@@ -265,7 +265,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/Z00D/proprietary/lib/libmultidisplay.so:system/lib/libmultidisplay.so \
     vendor/asus/Z00D/proprietary/lib/libmix_imageencoder.so:system/lib/libmix_imageencoder.so \
     vendor/asus/Z00D/proprietary/lib/libsvml.so:system/lib/libsvml.so \
-    vendor/asus/Z00D/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/asus/Z00D/proprietary/lib/libtbd.so:system/lib/libtbd.so \
     vendor/asus/Z00D/proprietary/lib/libxditk_AT.so:system/lib/libxditk_AT.so \
     vendor/asus/Z00D/proprietary/lib/libxditk_DIT_CloverTrailPlus.so:system/lib/libxditk_DIT_CloverTrailPlus.so \
